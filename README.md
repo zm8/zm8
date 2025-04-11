@@ -32,8 +32,8 @@ I'm a passionate front-end developer focused on building high-quality web applic
 ![Mocha Badge](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff&style=flat)
 ![PostCSS Badge](https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=fff&style=flat)
 
-## Stats
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=zm8&show_icons=true&theme=vue" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=zm8&show_icons=true&theme=vue&hide_rank=true" align="left" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zm8&show_icons=true&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
