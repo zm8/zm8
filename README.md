@@ -6,7 +6,9 @@ I'm a passionate front-end developer focused on building high-quality web applic
 
 ❤️ I love coding and 🏃‍♂️ enjoy staying active through sports.
 
-📫 Contact: 280541464@qq.com
+📫 Contact: <280541464@qq.com>
+
+📝 Blog: <https://github.com/zm8/blog>
 
 ## Technologies
 
