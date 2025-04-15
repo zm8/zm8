@@ -8,7 +8,7 @@ I'm a passionate front-end developer focused on building high-quality web applic
 
 📫 Contact: <280541464@qq.com>
 
-📝 Blog: <https://github.com/zm8/blog>
+📝 Blog: <https://zm8.github.io/blog/>
 
 ## Technologies
 
